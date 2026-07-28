@@ -278,10 +278,12 @@ body {
   font-weight: bold;
   margin-top: 10px;
   width: 1070px;
+  margin-bottom: 50px;
 }
 
 .wide-content {
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .free-content-one {

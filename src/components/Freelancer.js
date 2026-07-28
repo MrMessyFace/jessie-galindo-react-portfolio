@@ -15,7 +15,13 @@ const Freelancer = () => {
             </p>
           </div>
           <div className="wide-price">
-            <h3>Rate: $30/hr with $100 non-refundable consultation.</h3>
+            <h3>Rate: $25/hr with $100 non-refundable consultation.</h3>
+          </div>
+          <div className="wide-content">
+            <p>
+              Payment plan options are available after completion of the
+              website.
+            </p>
           </div>
         </div>
       </div>
@@ -52,7 +58,7 @@ const Freelancer = () => {
             </p>
           </div>
           <div className="price">
-            <h3>$30/hr.</h3>
+            <h3>$25/hr.</h3>
           </div>
         </div>
       </div>

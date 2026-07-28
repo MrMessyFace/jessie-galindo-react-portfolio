@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="copyright">
-        &copy; 2023 Jessie S. Galindo. All Rights Reserved.
+        &copy; 2023-2026 Jessie S. Galindo. All Rights Reserved.
       </div>
-      <div className="socials">
+      {/* <div className="socials">
         <div className="link-icon">
           <a
             href="https://www.facebook.com/MrMessyFace"
@@ -57,7 +57,7 @@ const Footer = () => {
             <i className="fa-brands fa-tiktok fa-2xl" alt="TikTok"></i>
           </a>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
